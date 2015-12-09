@@ -1,6 +1,6 @@
 {
-    "name"        : "neutron/recaptcha",
-    "description" : "ReCaptcha Client",
+    "name"        : "thegeekrv/recaptcha",
+    "description" : "reCAPTCHA Client",
     "license"     : "MIT",
     "require": {
         "guzzle/guzzle"           : "~3.0"
