@@ -1,5 +1,7 @@
 # Guzzled PHP ReCaptcha
 
+This is an updated form of the original ReCaptcha Client from @romainneutron
+
 [![Build Status](https://secure.travis-ci.org/romainneutron/ReCaptcha.png?branch=master)](http://travis-ci.org/romainneutron/ReCaptcha)
 
 This is a Object Oriented PHP port of the original ReCaptcha lib.
